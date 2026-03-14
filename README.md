@@ -39,16 +39,21 @@
 
 ### 1️⃣ Install dependencies
 
+```
 npm install
-
+```
 
 ### 2️⃣ Start development server
 
+```
 npm run dev
+```
 
 The application runs at:
 
+```
 http://localhost:8080
+```
 
 # 🧠 What This Project Demonstrates
 
